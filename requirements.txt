@@ -1,0 +1,9 @@
+joblib
+numpy
+openai
+pandas
+python-dotenv
+scikit-learn
+tqdm
+xgboost
+lightgbm

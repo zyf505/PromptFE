@@ -1,0 +1,6 @@
+Frequency, in Hertzs. 
+Angle of attack, in degrees. 
+Chord length, in meters.
+Free-stream velocity, in meters per second. 
+Suction side displacement thickness, in meters. 
+Scaled sound pressure level, in decibels. 

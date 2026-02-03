@@ -1,0 +1,24 @@
+time to failure or censoring
+treatment indicator (0 = ZDV only; 1 = ZDV + ddI, 2 = ZDV + Zal, 3 = ddI only)
+age (yrs) at baseline
+weight (kg) at baseline
+hemophilia (0=no, 1=yes)
+homosexual activity (0=no, 1=yes)
+history of IV drug use (0=no, 1=yes)
+Karnofsky score (on a scale of 0-100)
+Non-ZDV antiretroviral therapy pre-175 (0=no, 1=yes)
+ZDV in the 30 days prior to 175 (0=no, 1=yes)
+ZDV prior to 175 (0=no, 1=yes)
+# days pre-175 anti-retroviral therapy
+race (0=White, 1=non-white)
+gender (0=F, 1=M)
+antiretroviral history (0=naive, 1=experienced)
+antiretroviral history stratification (1='Antiretroviral Naive',2='> 1 but <= 52 weeks of prior antiretroviral therapy',3='> 52 weeks)
+symptomatic indicator (0=asymp, 1=symp)
+treatment indicator (0=ZDV only, 1=others)
+indicator of off-trt before 96+/-5 weeks (0=no,1=yes)
+CD4 at baseline
+CD4 at 20+/-5 weeks
+CD8 at baseline
+CD8 at 20+/-5 weeks
+censoring indicator (1 = failure, 0 = censoring)

@@ -1,0 +1,21 @@
+Status of existing checking account, in Deutsche Mark.
+Duration in months
+Credit history (credits taken, paid back duly, delays, critical accounts)
+Purpose of the credit (car, television,...)
+Credit_amount
+Status of savings account/bonds, in Deutsche Mark.
+Present employment, in number of years.
+Installment rate in percentage of disposable income
+Personal status (married, single,...) and sex
+Other debtors / guarantors
+Present residence since X years
+Property_magnitude
+Age in years
+Other installment plans (banks, stores)
+Housing (rent, own,...)
+Number of existing credits at this bank
+Quality of debtor's job
+Number of people being liable to provide maintenance for
+Telephone (yes,no)
+Foreign worker (yes,no)
+Has the credit contract been complied with (good) or not (bad) 
