@@ -97,7 +97,19 @@ Features are represented as trees using canonical Reverse Polish Notation (cRPN)
 If you use this code, please cite the paper:
 
 ```
-PromptFE: Automated Feature Engineering by Prompting
+@inproceedings{zou-etal-2026-promptfe,
+    title = "{P}rompt{FE}: Automated Feature Engineering by Prompting",
+    author = "Zou, Yufeng  and  Utke, Jean  and  Klabjan, Diego  and  Liu, Han",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.28/",
+    doi = "10.18653/v1/2026.eacl-long.28",
+    pages = "653--681",
+    ISBN = "979-8-89176-380-7"
+}
 ```
 
 A portion of the code is adapted from [DIFER](https://github.com/PasaLab/DIFER?utm_source=catalyzex.com).
